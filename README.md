@@ -3,7 +3,6 @@
 Having issues with Swipd?
 
 - **Report a bug**: [Create an issue](../../issues/new)
-- **Contact**: your@email.com
 
 We typically respond within 48 hours.
 
